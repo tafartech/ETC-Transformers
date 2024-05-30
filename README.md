@@ -18,3 +18,15 @@ However, challenges such as overfitting and bias limit the effectiveness of a si
 
 ## References
 - Krishnan, A. (2023). "Optimizing Multi-Class Text Classification: A Diverse Stacking Ensemble Framework Utilizing Transformers". [Big Data Mining and Analytics](https://arxiv.org/abs/2308.11519). DOI: 10.26599/BDMA.2023.9020xxx.
+
+
+## Required Dataset
+
+This project uses the OpSpam dataset as recommended in the research paper. The OpSpam dataset contains labeled hotel reviews for the task of deception detection.
+
+### Download the OpSpam Dataset
+
+You can download the OpSpam dataset from Kaggle:
+
+- [OpSpam Dataset on Kaggle](https://www.kaggle.com/datasets/rtatman/deceptive-opinion-spam-corpus)
+
